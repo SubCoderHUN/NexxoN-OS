@@ -1,0 +1,26 @@
+# Build artefacts
+build/
+*.o
+*.elf
+*.bin
+*.img
+*.iso
+
+# GRUB scratch copy
+iso/boot/nexxon.elf
+
+# IDE / editor leftovers
+*.swp
+*~
+.vscode/
+.idea/
+
+# Local scratch
+/tmp/
+
+# Generated installer payload (built by Makefile, copied into ISO)
+iso/boot/nexxon.payload
+
+# Node.js (proxy server)
+node_modules/
+package-lock.json

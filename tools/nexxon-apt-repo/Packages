@@ -1,0 +1,299 @@
+Package: glibc-ld.so
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: glibc-ld.so
+Description: glibc dynamic loader seed for linuxglibc
+
+Package: glibc-libc.so
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: glibc-libc.so
+Description: glibc libc.so.6 seed for linuxglibc
+
+Package: glibc-libs.bundle
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: glibc-libs.bundle
+Description: NexxoN apt payload
+
+Package: i386-ld.so
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: i386-ld.so
+Description: NexxoN apt payload
+
+Package: i386-libGL.so.1
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: i386-libGL.so.1
+Description: NexxoN apt payload
+
+Package: i386-libGLX.so
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: i386-libGLX.so
+Description: NexxoN apt payload
+
+Package: i386-libX11.so.6
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: i386-libX11.so.6
+Description: NexxoN apt payload
+
+Package: i386-libXrandr.so.2
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: i386-libXrandr.so.2
+Description: NexxoN apt payload
+
+Package: i386-libc.so
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: i386-libc.so
+Description: NexxoN apt payload
+
+Package: i386-libs.bundle
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: i386-libs.bundle
+Description: NexxoN apt payload
+
+Package: i386-steam-gfx.bundle
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: i386-steam-gfx.bundle
+Description: i386 libX11/GL/steamui for Steam update UI
+
+Package: i386-steamui.so
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: i386-steamui.so
+Description: NexxoN apt payload
+
+Package: isrgrootx1.pem
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: isrgrootx1.pem
+Description: NexxoN apt payload
+
+Package: linux32.elf
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: linux32.elf
+Description: NexxoN apt payload
+
+Package: linux32glibc.elf
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: linux32glibc.elf
+Description: NexxoN apt payload
+
+Package: linux32pie.elf
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: linux32pie.elf
+Description: NexxoN apt payload
+
+Package: linux32pthread.elf
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: linux32pthread.elf
+Description: NexxoN apt payload
+
+Package: linuxalsa.elf
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: linuxalsa.elf
+Description: NexxoN apt payload
+
+Package: linuxdemo
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: linuxdemo
+Description: Musl static integration demo (optional net mirror)
+
+Package: linuxdri.elf
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: linuxdri.elf
+Description: NexxoN apt payload
+
+Package: linuxdrmfb.elf
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: linuxdrmfb.elf
+Description: NexxoN apt payload
+
+Package: linuxepoll.elf
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: linuxepoll.elf
+Description: NexxoN apt payload
+
+Package: linuxglibc.elf
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: linuxglibc.elf
+Description: NexxoN apt payload
+
+Package: linuxmmap.elf
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: linuxmmap.elf
+Description: NexxoN apt payload
+
+Package: linuxpulse.elf
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: linuxpulse.elf
+Description: NexxoN apt payload
+
+Package: linuxvkcommand.elf
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: linuxvkcommand.elf
+Description: NexxoN apt payload
+
+Package: linuxvkinstance.elf
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: linuxvkinstance.elf
+Description: NexxoN apt payload
+
+Package: linuxvkloader.elf
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: linuxvkloader.elf
+Description: NexxoN apt payload
+
+Package: linuxvkqueue.elf
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: linuxvkqueue.elf
+Description: NexxoN apt payload
+
+Package: linuxvksurface.elf
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: linuxvksurface.elf
+Description: NexxoN apt payload
+
+Package: linuxvkswapchain.elf
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: linuxvkswapchain.elf
+Description: NexxoN apt payload
+
+Package: linuxvulkan.elf
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: linuxvulkan.elf
+Description: NexxoN apt payload
+
+Package: linuxvulkanso.elf
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: linuxvulkanso.elf
+Description: NexxoN apt payload
+
+Package: linuxx11.elf
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: linuxx11.elf
+Description: NexxoN apt payload
+
+Package: linuxxevent.elf
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: linuxxevent.elf
+Description: NexxoN apt payload
+
+Package: linuxxlib.elf
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: linuxxlib.elf
+Description: NexxoN apt payload
+
+Package: netprobe
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: netprobe
+Description: HTTP apt integration probe (musl static ELF)
+
+Package: prepare.py
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: prepare.py
+Description: NexxoN apt payload
+
+Package: steam-bootstrap.elf
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: steam-bootstrap.elf
+Description: Official Valve Steam bootstrap (ubuntu12_32)
+
+Package: steam-cdn-probe.html
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: steam-cdn-probe.html
+Description: NexxoN apt payload
+
+Package: steam-client-seed.bundle
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: steam-client-seed.bundle
+Description: Steam client install markers for NexxoN
+
+Package: steamwebstub.elf
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: steamwebstub.elf
+Description: steamwebhelper CEF subprocess stub
+
+Package: vkloader-libs.bundle
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: vkloader-libs.bundle
+Description: NexxoN apt payload
+
+Package: x11-libX11.so.6
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: x11-libX11.so.6
+Description: NexxoN apt payload
+
+Package: x11-libXau.so.6
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: x11-libXau.so.6
+Description: NexxoN apt payload
+
+Package: x11-libXdmcp.so.6
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: x11-libXdmcp.so.6
+Description: NexxoN apt payload
+
+Package: x11-libbsd.so.0
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: x11-libbsd.so.0
+Description: NexxoN apt payload
+
+Package: x11-libmd.so.0
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: x11-libmd.so.0
+Description: NexxoN apt payload
+
+Package: x11-libs.bundle
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: x11-libs.bundle
+Description: NexxoN apt payload
+
+Package: x11-libxcb.so.1
+Version: 1.0-nexxon
+Architecture: amd64
+Filename: x11-libxcb.so.1
+Description: NexxoN apt payload
